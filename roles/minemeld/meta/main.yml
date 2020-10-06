@@ -12,7 +12,7 @@ galaxy_info:
         - 7
         - 8
   galaxy_tags:
-    - minemeld
+    - infrastructure
     #
     # NOTE: A tag is limited to a single word comprised of alphanumeric
     # characters. Maximum 20 tags per role.
