@@ -1,0 +1,20 @@
+# roles/nftables/meta/main.yml
+
+galaxy_info:
+  author: Nabeel
+  description: 'nftables role configures host based firewall on CentOS8 machines'
+  company: Nabeel
+  license: Proprietary
+  min_ansible_version: 2.5
+  platforms:
+    - name: EL
+      versions:
+        - 7
+        - 8
+  galaxy_tags:
+    - minemeld
+    #
+    # NOTE: A tag is limited to a single word comprised of alphanumeric
+    # characters. Maximum 20 tags per role.
+
+dependencies: []
